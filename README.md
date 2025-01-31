@@ -31,11 +31,7 @@ The main steps of the project include:
    git clone https://github.com/<your-username>/Fake-Banknote-Detection
    cd Fake-Banknote-Detection
 
-2. Install the required dependencies:
-   ```bash
-   pip install -r 
-
-3. Run the notebooks to explore the analysis and use the app:
+2. Run the notebooks to explore the analysis and use the app:
    ```bash
    Open Melchiori_Manuel_1_Notebook_analyse_012025.ipynb to see the data preprocessing, unsupervised analysis, and training/evaluation of the models.
    Open Melchiori_Manuel_1_Notebook_application_012025.ipynb to use the app for detecting counterfeit banknotes with trained models.
