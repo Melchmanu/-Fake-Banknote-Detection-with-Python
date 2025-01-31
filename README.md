@@ -33,7 +33,7 @@ The main steps of the project include:
 
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r 
 
 3. Run the notebooks to explore the analysis and use the app:
    ```bash
@@ -50,6 +50,9 @@ Detect counterfeit banknotes using machine learning algorithms.
 Comprehensive data preprocessing and model evaluation.
 
 Python-based application for real-time counterfeit detection.
+
+
+
 
 Future Improvements
 Integrate additional features for improved accuracy.
