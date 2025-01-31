@@ -40,7 +40,7 @@ The main steps of the project include:
 
 
 
-Key Features
+## Key Features
 Detect counterfeit banknotes using machine learning algorithms.
 
 Comprehensive data preprocessing and model evaluation.
@@ -50,7 +50,7 @@ Python-based application for real-time counterfeit detection.
 
 
 
-Future Improvements
+## Future Improvements
 Integrate additional features for improved accuracy.
 
 Develop an enhanced user interface for the application.
